@@ -33,7 +33,7 @@ To apply the concepts documented in this repository, I am building a **Project D
 ### Technologies used:
 - **Frontend:** React + Vite  
 - **Backend:** ASP.NET Core Web API (C#)  
-- **Database:** SQLite (or in-memory for simplicity)  
+- **Database:** SQLite
 - **Tools:** Git, PowerShell, Visual Studio Code  
 
 The source code for this project will either be included in this repository or linked separately. It demonstrates how different parts of the cheat sheets come together in a real-world development workflow.
