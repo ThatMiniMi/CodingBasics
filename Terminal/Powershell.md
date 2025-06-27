@@ -43,7 +43,7 @@ This cheat sheet covers the most common PowerShell commands used for file naviga
 
 ---
 
-## Script Execution (Optional)
+## Script Execution
 
 | Command                            | Description                                    |
 |------------------------------------|------------------------------------------------|
