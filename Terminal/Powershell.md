@@ -45,10 +45,10 @@ This cheat sheet covers the most common PowerShell commands used for file naviga
 
 ## Script Execution (Optional)
 
-| Command                        | Description                             |
-|--------------------------------|-----------------------------------------|
-| `.\script.ps1`                 | Runs a PowerShell script in the current folder |
-| `Set-ExecutionPolicy RemoteSigned` | Allows scripts to run (use with care)   |
+| Command                            | Description                                    |
+|------------------------------------|------------------------------------------------|
+| `.\script.ps1`                     | Runs a PowerShell script in the current folder |
+| `Set-ExecutionPolicy RemoteSigned` | Allows scripts to run (use with care)          |
 
 ---
 
